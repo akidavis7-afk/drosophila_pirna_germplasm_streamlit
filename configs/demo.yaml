@@ -1,0 +1,2 @@
+background_threshold: 0.30
+fdr_threshold: 0.10
