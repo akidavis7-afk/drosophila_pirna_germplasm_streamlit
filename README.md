@@ -4,6 +4,8 @@ A reproducible Python workflow for synthetic piRNA abundance QC, simplified ping
 
 The repository uses synthetic demonstration data. It is not a reproduction of the PNAS paper and does not claim to match the Tomari Lab's internal analysis pipeline.
 
+[Click here to view the Live Interactive Web App Demo]( https://drosophilapirnagermplasmapp-gomrqnjdehruzsiquwvkek.streamlit.app/)
+
 ## Local Windows CMD test
 
 ```cmd
